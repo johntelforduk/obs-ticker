@@ -1,6 +1,6 @@
 # OBS Ticker
 
-![Screenshot](https://github.com/johntelforduk/obs-ticker/blob/master/OBS_ticker_screenship.jpg)
+![Screenshot](https://github.com/johntelforduk/obs-ticker/blob/master/OBS_ticker_screenshot.jpg)
 
 #### Installation
 ```
